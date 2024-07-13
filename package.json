@@ -1,0 +1,25 @@
+{
+  "name": "realm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Realm configuration install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crissims/Realm-Config.git"
+  },
+  "author": "Cristiane Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crissims/Realm-Config/issues"
+  },
+  "homepage": "https://github.com/crissims/Realm-Config#readme",
+  "dependencies": {
+    "foo": "^0.0.7",
+    "realm": "^12.11.1",
+    "strip-bom": "^5.0.0"
+  }
+}
